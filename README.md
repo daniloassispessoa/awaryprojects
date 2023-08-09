@@ -1,5 +1,2 @@
 # awaryprojects
-little projects  
-
-teste de commit
-Danilo Pessoa
+little projects to exercise and learn to code.
